@@ -1,4 +1,4 @@
-# Project "React Query Example"
+# React Query Example
 
 This repository contains a project written in React that serves as an example of using React Query.
 
